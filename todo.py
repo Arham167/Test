@@ -15,3 +15,5 @@ def show_tasks():
 
 add_task("Practice Git")
 show_tasks()
+
+print("Releasing")

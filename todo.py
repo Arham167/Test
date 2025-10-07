@@ -1,5 +1,3 @@
-print("Welcome")
-
 tasks = []
 
 def add_task(task):
